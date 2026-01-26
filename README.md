@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas e Desenvolvedor Full Stack`**
 
-Desenvolvedor com **25 anos de experiência** em Full Stack Forms e WebForms, especializado em tecnologias .NET, Angular, Node.js e integrações com sistemas empresariais. Experiência em desenvolvimento de ERPs, sistemas de gestão e automação industrial.
+Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Forms e WebForms, MVC, Razor e Blazor. Especializado em tecnologias .NET (4.5, 4.6, Core), C#.NET, ASP.NET, VB.NET, Node.js, Angular, Blazor, TypeScript e integrações com sistemas empresariais. Experiência em desenvolvimento de ERPs, sistemas de gestão e automação industrial com RFID.
 
 <p align="left">
     <a href="https://github.com/erasmosud?tab=repositories&sort=stargazers">
@@ -211,136 +211,165 @@ Desenvolvedor com **25 anos de experiência** em Full Stack Forms e WebForms, es
 
 ## 💼 Resumo das Qualificações
 
-- **25 anos de experiência** em Full Stack Forms e WebForms
+- **25 anos de experiência** em desenvolvimento Full Stack Forms e WebForms, MVC, Razor e Blazor
 
-### Tecnologias Recentes
-- .NET/ASP.NET Core, C#.NET, ASP.NET, VB.NET, Node.js, Angular, TypeScript
+### Tecnologias Atuais
+- **Trabalhando atualmente:** .NET 4.5, 4.6, C#.NET, ASP.NET, VB.NET (a mais de 10 anos), .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5
+- HTML, CSS, JavaScript, ORACLE, TSQL, PL/SQL, SQL SERVER, MYSQL, MVC (a mais de 10 anos), GIT
 
-### IA Generativa
-- IA, ML, DL e GenAI
+### Experiência Avançada Web
+- Bootstrap, PHP
 
-### Design
-- HTML, HTML5, CSS, Javascript, BootStrap, Corel Draw, Photoshop, Fireworks, After-Effects
+### Experiência Avançada em Arquiteturas de Software
+- Design Patterns, TDD, DDD, MVC, SOLID
 
-### Domínio de outras Tecnologias
-- VB6, Delphi 7, Delphi RAD, Delphi XE(i), Delphi (Seatle, Tokyo), PHP, C++, Clipper, Pascal, FoxPro
+### Experiência Avançada no Controle de Versão
+- TFS, GIT (Bitbucket, GitLab, GitHub, GitFlow)
 
-### Integrações
-- APIs, SAP via RFC, Totvs, Protheus, usando RestApis e WebAPIs, SOAP e JSON
-
-### Protocolo de impressoras e leitores de Barcode
-- ZPL2 e EPL / EAN-13, UN-14, Code 128, Code 39, Code 93, ITF-14
-
-### Padrões de Desenvolvimento de código
-- Design Patterns, TDD, DDD, MVC e SOLID
-
-### Versionamentos
-- TFS, GIT (BITBUCKET, GITLAB, GitFlow, GitHub, DevOps CI/CD)
-
-### Bancos de Dados
-- Oracle, Sql Server, PostsgreSql, DB2 AS400, ACCESS
+### Experiência Avançada em Bancos de Dados
+- Oracle, SQL Server, PostgreSQL, Access
 
 ### Ferramentas de UML e Clientes
-- DBDesigner, Poseidon, PLSQL, SQL Server Management Studio (SSMS) e DBEAVER
-
-### Métodos Ágeis e Ferramentas
-- Scrum, Kanban, Lean / Trello, ClickUp, Monday.com e Jira
+- DBDesigner, Poseidon, PLSQL, SSMS, DBEAVER
 
 ### Conhecimentos de Infra
-- Redes, Hardware, Microsoft Azure, Docker
+- Redes, Hardware, Docker
+
+### Outras Tecnologias
+- Ferramentas Borland Delphi (7.0, RAD, XE(i), Seattle, Tokyo)
+- Ferramentas Microsoft legadas: VB6, FoxPro
+
+### Integrações
+- SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP e JSON
+- Integração de sistemas utilizando RabbitMQ e Kafka para arquiteturas distribuídas
+
+### Protocolo de impressoras e leitores de código de barras
+- ZPL2, EPL, EAN-13, etc.
+
+### Metodologias e Ferramentas
+- **Metodologias ágeis:** Scrum, Kanban, Lean
+- **Ferramentas de gestão:** Trello, ClickUp, Monday, Jira
 
 ---
 
-## 🚀 Experiências
+## 🚀 Experiência Profissional
 
-### Analista de Sistemas e Desenvolvedor (Nível Superior)
+### Analista e Desenvolvedor (Fases: Júnior, Pleno, Sênior, Especialista Full Stack)
 
 #### Processware
-**Tempo integral** – Desde agosto de 2024
+**Desde agosto de 2024**
 
-**Projeto O2P:** ERP Dinâmico com diversos Processos adaptáveis.
+- **Projeto O2P:** ERP dinâmico forte em logística Embraer
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
 
 ---
 
 #### SOF Tecnologia
-**Tempo integral** – De Jul de 2023 a Ago de 2024
+**Jul 2023 – Ago 2024**
 
-**Projeto BCLEGAL:** Solução para gestão jurídica, contratos e procurações.
+- **Projeto BCLEGAL:** ERP de gestão jurídica, contratos e procurações
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
 
 ---
 
 #### GSW Soluções Integradas
-**De ago de 2013 - jul de 2023**
+**Ago 2013 – Jul 2023**
 
-- **Projeto - Sustentação e Melhoria aos sistemas da Panasonic:** PSI, ATP, EOL, GPA, IDC, TMG, PBP, Populis, SCF, HYPERION, SalesForce, WMO, IAC.
+- **Projetos Panasonic:** PSI, ATP, EOL, GPA, IDC, TMG, PBP, Populis, SCF, Hyperion, Salesforce, WMO, IAC.
 
-- **Projeto - Melhoria e Sustentação aos sistemas Embraer:** AIS, APP, GDQ, GFF, GRE, ICR, NCR, PEP, SCC, SIP, EPR, RVE, ICR, PCM, GBI, CARTA A, Boletim, BOOKPLAN, entre outros.
+- **Projetos 3M:** EPPR, SICAC, SIP, Cadastro Certo, Sinergia, Qualidade Insumos, DFE, CTE, NFE, Gateway, etc.
 
-- **Projeto - Melhorias e Sustentação aos projetos da 3M:** EPPR, SICAC, SIP, Cadastro Certo, Sinergia, Qualidade Insumos, DFE, CTE, NFE, Gateway, entre outros.
+- **Projetos Embraer:** AIS, APP, GDQ, GFF, GRE, ICR, NCR, PEP, SCC, SIP, EPR, RVE, PCM, GBI, Carta A, Boletim, BookPlan, ERP, ComAutomation
+
+- **Projetos das Empresas:** ATLAS, EPIROC, HYPERA, CCAA, BEHR, SPC
+
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET, VB6 e DELPHI 7.0)
 
 ---
 
 #### Savcor
-**De Ago de 2012 - Ago de 2013**
+**Ago 2012 – Ago 2013**
 
-**Projeto:** ERP florestal (ZENITH) módulos Registro, controle de talhão, Mapeamento de região e preparação para corte (Colheita), Controle de recursos e insumos para área de plantio além de indicadores estatísticos, modulo de gestão de licenças e liberação para atuar com reflorestamento e colheita, registro de propriedade de Imóveis de Plantio, ferramenta possui integração com TatukGis.
+- **Projeto ZENITH:** ERP florestal com módulos de gestão e integração com TatukGis
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
 
 ---
 
 #### Urban
-**Ago de 2009 - Ago de 2011**
+**Ago 2009 – Ago 2011**
 
-**Projeto:** SAMS – Responsável pela gestão de pacientes do SUS da Secretaria de Saúde de SJCampos.
+- **Projeto SAMS:** Gestão de pacientes do SUS em SJCampos
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
 
 ---
 
 #### VisioWare Soluções Integradas
-**Set de 2008 - Ago de 2009**
+**Set 2008 – Ago 2009**
 
-- **Projeto:** Barcode ERP da Johnsons e Johnsons – com módulos de Impressão de Etiquetas Ethicon, EAN, CODE28 para impressoras Zebras.
-- **Projeto:** ERP Adequação de Insumos de medicamento.
+- **Projetos ERP e Barcode** e projeto Adequação Medical para Johnson & Johnson
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
 
 ---
 
 #### Bieletro Automação Industrial
-**Jul de 2005 - Set de 2007**
+**Jul 2005 – Set 2007**
 
-- CPQD - Controle de Armazenamento e Geoprocessamento de Paletes CPQD.
-- Correios do Brasil – Sistema de Controle de Malotes.
-- Computeasy RFID Integrations System.
-- Mitsubishi Catalão Goiás – Softwares de Baixa de Componentes.
-- Armass – Identificação de Armas de Fogo.
-- Alumar Datalogic – Software Embarcado C++.
-- ACESITA - Controle de Acesso.
-- ABNote RFID Card – Sistema Controle de Acesso por cartão de crédito.
-- Supervisório PLC Allen Bradley – através da Porta Serial RS232.
-- Ausi – Softwares para controlar a baixa de componentes.
-- Bradesco – Controle de acesso c/ integração com RFID INTERMEC.
-- Colgate – Controle de Estoque por identificação na entrada RFID.
-- Daimler Chrysler (Mercedes) – Software para monitorar linha de montagem, parceria com a IBM do Brasil e INTERMEC.
-- DELL Computadores do Brasil – ERP controle da Linha de Montagem notebooks DELL e Servidores DELL parceria com Flexlink do Brasil integração com PLC e Produtos RFID da ROCKWELL Automation.
-- Embraco – Softwares de Rastreamento de Documentos.
+**Integração com RFID usando VB6, Delphi 7.0, C#.Net e PLCs linguagem ladder**
+
+- **3M** – Integração com Software para captura de tags RFID.
+- **ABNote / Acesita / Bradesco / Embrapa / Goodyear / GPTRANS / PROTÉGE / Mafrig** – Integração com Controle de acesso por RFID.
+- **Armass** – Integração com Softwares de identificação de armas com RFID.
+- **Ausi** – Integração com Sistema de baixa de componentes rastreamento por estágio usando RFID.
+- **COLGATE** – Integração com Controle de estoque por identificação de chegada usando RFID.
+- **Correios do Brasil / FLASH** – Integração com software leitura e controle de malotes usando RFID.
+- **CPQD** – Integração com sistemas de controle de produtos sobre paletes usando RFID.
+- **Infoserver** – Softwares completo de RH com controle de acesso RFID.
+- **ISOMONTE** – Software gestor de documentos com tags RFID.
+- **Johnson & Johnson / Rexan / Vesúvius** – Integração com Leitores de Barcode com RFID.
+- **Johnson Controls** – Integração com Rastreamento RFID em software de produção de estofados.
+- **Sistema de controle de ponto** com leitura de cartão RFID.
+- **ScanGate** – Software de gerenciamento de fitas de backup identificadas por RFID.
+- **Secretaria do Meio Ambiente (SP)** – Monitoramento de nascentes com envio de dados via SMS.
+- **Suzano / Votorantim Celulose e Papel (VCP)** – Software Maquete Eletrônica, para baldeio de caminhões utilizando RFID e Wireless.
+- **Toyota** – Sistema automação e integração com barcode e RFID.
+- **Rede Record de Televisão** – Sistemas de controle de filmagens por RFID.
+- **ADAXIS** – Integração de softwares com PLC Allen Bradley.
+- **Alumar** – Software embarcado para equipamentos industriais RFID C++.
+- **Computeasy** – Integração com equipamento RFID IPICO.
+- **DELL Computadores do Brasil** – Integração com ERP em Ladder e C#.NET completo com RFID em cada ponto da esteira da linha de montagem de notebooks e servidores DELL parceria com FLEXLINK.
+- **EMBRAER** – Integração com impressora ZEBRA e RFID Intermec no rastreio de ferramentas.
+- **Equitron / General Motors (GM) / Down Automotive** – Softwares Supervisório PROD usando RFID.
+- **FRIBOI** – Integração RFID com sistema de identificação de carnes e rastreio do processo de corte.
+- **Intermec** – Protocolo RFID para equipamento intermec.
+- **Postos IPIRANGA** – Controle da retirada do bico de abastecimento com RFID.
+- **Maxion** – Integração para demonstração de equipamento RFID.
+- **Mitsubishi do Brasil (Catalão)** – Integração com sistema de baixa de componentes usando RFID.
+- **Petrobras** – Sistema para HandHeld Windows Mobile com leitura de tags de rádio frequência.
+- **Pilkington** – Sistema para identificação de paletes via RFID.
+- **Porto de Santos** – Sistema para identificação de contêineres com cadeados RFID.
+- **Selettra** – Integração com sistema RFID.
+- **Telcon** – Integração com impressora Zebra Industrial para imprimir em TAGs RFID.
+- **Vale do Rio Doce** – Sistema de posicionamento de máquinas RFID (gruas de 90m sobre trilho).
+- **Volkswagen do Brasil** – Participação em sistema de controle de frota via RFID.
+- **Daimler Chrysler (Mercedes)** – Sistema de identificação dos estágios da linha de montagem, em parceria com IBM Brasil com RFID projeto piloto.
 
 ---
-
-### Programador (Nível Técnico)
 
 #### Átonos Engenharia de Software
-**Nov de 2004 - Jul de 2005**
+**Nov 2004 – Jul 2005**
 
-- **Projeto:** Máquina Controladora de Capsulas de Bronzeamento da INVEL.
-- **Projeto:** Pareamento de Cromossomos.
+- Automação de cápsulas de bronzeamento
+- Pareamento genético de cromossomos
+- Sistemas para estética ótica (Lentes, Óculos)
 
-**Tecnologia:** Visual Basic 6.0, Delphi 7.0, e banco de dados SQL Server 2005 e 2008 R2.
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
 
 ---
 
-#### HITACHI – Ar Condicionado do Brasil
-**Janeiro de 2003 a Nov de 2004**
+#### HITACHI Ar Condicionado do Brasil
+**Jan 2003 – Nov 2004**
 
-**Projeto:** Melhoria e Manutenção do ERP de Controle de Manufatura e Contabilidade da Hitachi – Cálculos de infraestrutura, Correção de cálculos financeiros, Peças e insumos.
-
-**Tecnologia:** 4GL – BaaN Tools IV.
+- Manutenção e melhoria de ERP de manufatura e contabilidade
 
 ---
 
@@ -350,15 +379,20 @@ Desenvolvedor com **25 anos de experiência** em Full Stack Forms e WebForms, es
 
 ---
 
-## 🎓 Formação (Nível Superior)
+## 🎓 Formação Acadêmica
 
-- **Ciência da Computação** – Univap – Universidade do Vale do Paraíba
-- **Informática Industrial** – ETEP – Escola Técnica Everardo Passos
-- **Processamento de Dados** – Univap – CTI – Colégio Técnico Industrial
+- **Ciência da Computação** – Univap – Estágio 2 anos (Levantamento, Desenvolvimento e Sustentação usando VB6)
+- **Informática Industrial** – ETEP
+- **Processamento de Dados** – Univap CTI - Estágio 2 anos (Desenvolvimento e Sustentação usando VB6)
 
 ---
 
-## 📜 Cursos de Especialização
+## 📜 Certificações
 
-### Escola Braz Figueiredo
-- **Certificação MCSD** – Visual Studio 2010
+- **MCSD** – Visual Studio 2010 – Escola Braz Figueiredo (2010)
+- **Delphi 7.0** – Escola Impacta (2005)
+- **Montagem e Manutenção de Microcomputadores** – SENAC (2000)
+- **Gestão em Telemarketing** – Atento do Brasil S/A (2001)
+- **Auxiliar de Negócios Administrativos** (06/95)
+- **Auxiliar de Departamento Pessoal** (08/96)
+- **Datilografia e Digitação** (02/96)
