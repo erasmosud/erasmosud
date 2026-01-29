@@ -1,4 +1,4 @@
-# 👨‍💻 Erasmo Sud
+# 👨‍💻 Erasmo
 
 **`Analista de Sistemas e Desenvolvedor Full Stack`**
 
