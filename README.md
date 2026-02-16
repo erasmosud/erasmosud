@@ -1,8 +1,17 @@
-# 👨‍💻 Erasmo Sud
+# 👨‍💻 Erasmo 
 
 **`Analista de Sistemas e Desenvolvedor Full Stack`**
 
-Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Forms e WebForms, MVC, Razor e Blazor. Especializado em tecnologias .NET (4.5, 4.6, Core), C#.NET, ASP.NET, VB.NET, Node.js, Angular, Blazor, TypeScript e integrações com sistemas empresariais. Experiência em desenvolvimento de ERPs, sistemas de gestão e automação industrial com RFID.
+Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack (Forms, WebForms, MVC, Razor, Blazor). Especializado em tecnologias .NET (4.5/4.6/5+/8+), C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript e integrações com sistemas empresariais. Experiência em desenvolvimento de ERPs, sistemas de gestão e automação industrial com RFID.
+
+**📍 Localização:** São José dos Campos – SP | **📧 Email:** erasmao@gmail.com | **📱 WhatsApp:** (12) 9 8834-2140
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erasmo--carvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erasmo-carvalho-b4874621)
+[![GitHub](https://img.shields.io/badge/GitHub-erasmosud-black?style=flat&logo=github)](https://github.com/erasmosud)
+
+### 🎯 Objetivo
+- **Cargo pretendido:** Analista de Sistemas Desenvolvedor Back / Front / Full Stack
+- **Modalidade:** Remoto / Híbrido / Presencial
 
 <p align="left">
     <a href="https://github.com/erasmosud?tab=repositories&sort=stargazers">
@@ -139,6 +148,14 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 />
 <img 
     align="left" 
+    alt="MongoDB" 
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker" 
     width="30px" 
@@ -152,6 +169,14 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="Amazon Web Services" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
 <img 
     align="left" 
@@ -210,56 +235,67 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 
 ## 💼 Resumo das Qualificações
 
-- **25 anos de experiência** em desenvolvimento Full Stack Forms e WebForms, MVC, Razor e Blazor
+### Experiência Geral
+- **25 anos** em desenvolvimento Full Stack (Forms, WebForms, MVC, Razor, Blazor)
 
-### Tecnologias Atuais
-- **Trabalhando atualmente:** .NET 4.5, 4.6, C#.NET, ASP.NET, VB.NET (a mais de 10 anos), .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5
-- HTML, CSS, JavaScript, ORACLE, TSQL, PL/SQL, SQL SERVER, MYSQL, MVC (a mais de 10 anos), GIT
+### Tecnologias Recentes
+- **CURSOR.IA**, .NET 4.5/4.6/5+/8+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL (CTEs, MERGE, JSON), PL/SQL, SQL Server, MySQL, MVC, GIT, Entity Framework, Unity Tests
 
-### Experiência Avançada Web
+### Outras Tecnologias Web
 - Bootstrap, PHP
 
-### Experiência Avançada em Arquiteturas de Software
+### Arquitetura de Software
 - Design Patterns, TDD, DDD, MVC, SOLID
 
-### Experiência Avançada no Controle de Versão
-- TFS, GIT (Bitbucket, GitLab, GitHub, GitFlow)
+### Controle de Versão
+- TFS, GIT (Bitbucket, GitLab, GitHub, GitFlow, CI/CD)
 
-### Experiência Avançada em Bancos de Dados
-- Oracle, SQL Server, PostgreSQL, Access
+### Bancos de Dados
+- Oracle, SQL Server, PostgreSQL, MongoDB, Firebird, Access
 
-### Ferramentas de UML e Clientes
-- DBDesigner, Poseidon, PLSQL, SSMS, DBEAVER
+### Ferramentas de Banco de Dados
+- DBDesigner, Poseidon, PL/SQL, SSMS, DBeaver
 
-### Conhecimentos de Infra
-- Redes, Hardware, Docker
+### Infraestrutura
+- Redes, Hardware, Docker, Básico AWS (EC2, Lambda Functions)
 
-### Outras Tecnologias
-- Ferramentas Borland Delphi (7.0, RAD, XE(i), Seattle, Tokyo)
-- Ferramentas Microsoft legadas: VB6, FoxPro
+### Ferramentas Legadas
+- Borland Delphi (7.0, RAD, XE(i), Seattle, Tokyo), VB6, Visual FoxPro
 
-### Integrações
-- SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP e JSON
-- Integração de sistemas utilizando RabbitMQ e Kafka para arquiteturas distribuídas
+### Integrações de Sistemas
+- SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP, JSON
 
-### Protocolo de impressoras e leitores de código de barras
-- ZPL2, EPL, EAN-13, etc.
+### Mensageria / Arquitetura Distribuída
+- RabbitMQ, Kafka
 
-### Metodologias e Ferramentas
-- **Metodologias ágeis:** Scrum, Kanban, Lean
-- **Ferramentas de gestão:** Trello, ClickUp, Monday, Jira
+### Metodologias Ágeis
+- Scrum, Kanban, Lean, Atuação com Azure DevOps
+
+### Ferramentas de Gestão
+- Trello, Jira
+
+### Protocolos Específicos
+- Impressoras e leitores de código de barras (ZPL2, EPL, EAN-13)
 
 ---
 
 ## 🚀 Experiência Profissional
 
-### Analista e Desenvolvedor (Fases: Júnior, Pleno, Sênior, Especialista Full Stack)
+### Analista e Desenvolvedor
+
+#### TecNetSky
+**Jul 2025 - Fev 2026**
+
+- **Projeto Arbitral360:** ERP de Gestão Jurídica de Conciliação, Mediação e Arbitragem
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET 4.5/4.6/5+/8+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL, PL/SQL, MVC, GIT, DevExpress, Design Patterns, TDD, DDD, MVC, SOLID, (ZPL2, EPL, EAN-13), mensageria RabbitMQ, Kafka, integrações (SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP, JSON) integrações com métodos de pagamento PIX)
+
+---
 
 #### Processware
-**Desde agosto de 2024**
+**Ago 2024 – Jul 2025**
 
 - **Projeto O2P:** ERP dinâmico forte em logística Embraer
-  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET 4.5/4.6/5+/8+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL, PL/SQL, MVC, GIT, DevExpress, Design Patterns, TDD, DDD, MVC, SOLID, (ZPL2, EPL, EAN-13), mensageria RabbitMQ, Kafka, integrações (SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP, JSON))
 
 ---
 
@@ -267,7 +303,7 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 **Jul 2023 – Ago 2024**
 
 - **Projeto BCLEGAL:** ERP de gestão jurídica, contratos e procurações
-  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET 4.5/4.6/5+/8+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL (CTEs, MERGE, JSON), PL/SQL, SQL Server, MySQL, MVC, GIT, Design Patterns(Singleton, Composite, Decorator, Facade), TDD, DDD, MVC, SOLID, Impressoras (ZPL2, EPL, EAN-13) integrações (SAP via RFC, Totvs/Protheus, REST APIs, WebAPIs, SOAP, JSON))
 
 ---
 
@@ -276,13 +312,13 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 
 - **Projetos Panasonic:** PSI, ATP, EOL, GPA, IDC, TMG, PBP, Populis, SCF, Hyperion, Salesforce, WMO, IAC.
 
-- **Projetos 3M:** EPPR, SICAC, SIP, Cadastro Certo, Sinergia, Qualidade Insumos, DFE, CTE, NFE, Gateway, etc.
+- **Projetos 3M:** EPPR, SICAC, SIP, Cadastro Certo, Sinergia, Qualidade Insumos, DFE, CTE, NFe, Gateway, eSocial, APIs GOV.br.
 
 - **Projetos Embraer:** AIS, APP, GDQ, GFF, GRE, ICR, NCR, PEP, SCC, SIP, EPR, RVE, PCM, GBI, Carta A, Boletim, BookPlan, ERP, ComAutomation
 
 - **Projetos das Empresas:** ATLAS, EPIROC, HYPERA, CCAA, BEHR, SPC
 
-  - (Levantamento, Desenvolvimento e Sustentação usando .NET, VB6 e DELPHI 7.0)
+  - (Análise, Levantamento, Desenvolvimento e Sustentação usando .NET 4.5/4.6/5+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL, PL/SQL, SQL Server, PostgreSQL, MySQL, MVC, GIT, VB6 e Borland Delphi (7.0, RAD, XE(i), Seattle, Tokyo), Scrum, Kanban, Lean, Atuação com Azure DevOps, Trello, Jira), TFS, GIT (Bitbucket, GitLab, GitHub, GitFlow)
 
 ---
 
@@ -290,7 +326,7 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 **Ago 2012 – Ago 2013**
 
 - **Projeto ZENITH:** ERP florestal com módulos de gestão e integração com TatukGis
-  - (Levantamento, Desenvolvimento e Sustentação usando .NET)
+  - (Levantamento, Desenvolvimento e Sustentação usando .NET 4.5/4.6 C#.NET, Oracle, T-SQL, PL/SQL, SQL Server, MySQL, PostgreSQL, MVC, TFS)
 
 ---
 
@@ -298,7 +334,7 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 **Ago 2009 – Ago 2011**
 
 - **Projeto SAMS:** Gestão de pacientes do SUS em SJCampos
-  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6, Delphi 7.0, Oracle, T-SQL, PL/SQL, SQL Server, PostgreSQL)
 
 ---
 
@@ -306,14 +342,14 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 **Set 2008 – Ago 2009**
 
 - **Projetos ERP e Barcode** e projeto Adequação Medical para Johnson & Johnson
-  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6, Oracle, T-SQL, PL/SQL, SQL Server, PostgreSQL)
 
 ---
 
 #### Bieletro Automação Industrial
 **Jul 2005 – Set 2007**
 
-**Integração com RFID usando VB6, Delphi 7.0, C#.Net e PLCs linguagem ladder**
+**Integração com RFID usando VB6, Delphi 7.0, Visual FoxPro, C#.Net e PLCs linguagem ladder (Oracle, SQL, PostgreSQL)**
 
 - **3M** – Integração com Software para captura de tags RFID.
 - **ABNote / Acesita / Bradesco / Embrapa / Goodyear / GPTRANS / PROTÉGE / Mafrig** – Integração com Controle de acesso por RFID.
@@ -361,7 +397,7 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 - Pareamento genético de cromossomos
 - Sistemas para estética ótica (Lentes, Óculos)
 
-  - (Levantamento, Desenvolvimento e Sustentação usando VB6)
+  - (Levantamento, Desenvolvimento e Sustentação usando VB6 e Visual FoxPro)
 
 ---
 
@@ -380,9 +416,11 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 
 ## 🎓 Formação Acadêmica
 
-- **Ciência da Computação** – Univap – Estágio 2 anos (Levantamento, Desenvolvimento e Sustentação usando VB6)
+- **Ciência da Computação** – Univap – 2008
+  - Estágio 2 anos (Levantamento, Desenvolvimento e Sustentação usando VB6)
 - **Informática Industrial** – ETEP
-- **Processamento de Dados** – Univap CTI - Estágio 2 anos (Desenvolvimento e Sustentação usando VB6)
+- **Processamento de Dados** – Univap CTI
+  - Estágio 1 ano no Laboratório (Desenvolvimento e Sustentação usando VB6)
 
 ---
 
@@ -390,6 +428,11 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack Form
 
 - **MCSD** – Visual Studio 2010 – Escola Braz Figueiredo (2010)
 - **Delphi 7.0** – Escola Impacta (2005)
+
+---
+
+## 📚 Cursos
+
 - **Montagem e Manutenção de Microcomputadores** – SENAC (2000)
 - **Gestão em Telemarketing** – Atento do Brasil S/A (2001)
 - **Auxiliar de Negócios Administrativos** (06/95)
