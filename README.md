@@ -4,7 +4,7 @@
 
 Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack (Forms, WebForms, MVC, Razor, Blazor). Especializado em tecnologias .NET (4.5/4.6/5+/8+), C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript e integrações com sistemas empresariais. Experiência em desenvolvimento de ERPs, sistemas de gestão e automação industrial com RFID.
 
-**📍 Localização:** São José dos Campos – SP | **📧 Email:** erasmao@gmail.com | **📱 WhatsApp:** (12) 9 8834-2140
+**📍 Localização:** São José dos Campos – SP 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erasmo--carvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erasmo-carvalho-b4874621)
 [![GitHub](https://img.shields.io/badge/GitHub-erasmosud-black?style=flat&logo=github)](https://github.com/erasmosud)
@@ -186,57 +186,14 @@ Desenvolvedor com **25 anos de experiência** em desenvolvimento Full Stack (For
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erasmosud&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erasmosud&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+<br/><br/><br/>
 ---
+<br clear="all"/>
 
-## 💼 Resumo das Qualificações
+<h1> Resumo das Qualificações</h1>
 
 ### Experiência Geral
-- **25 anos** em desenvolvimento Full Stack (Forms, WebForms, MVC, Razor, Blazor)
+- **25 anos**, em desenvolvimento Full Stack (Forms, WebForms, MVC, Razor, Blazor)
 
 ### Tecnologias Recentes
 - **CURSOR.IA**, .NET 4.5/4.6/5+/8+, C#.NET, ASP.NET, VB.NET, .NET Core, Node.js, Angular, Blazor, TypeScript, HTML5, HTML, CSS, JavaScript, Oracle, T-SQL (CTEs, MERGE, JSON), PL/SQL, SQL Server, MySQL, MVC, GIT, Entity Framework, Unity Tests
